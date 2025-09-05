@@ -31,7 +31,8 @@ Saksikan sendiri bagaimana tampilannya! Ini adalah tangkapan layar (screenshot) 
 
 <div align="center">
   <img src="https://via.placeholder.com/1200x600.png?text=Tangkapan+Layar+Portofolio+Anda" alt="Tampilan Portofolio" width="100%">
-  <p><i><b>Ganti gambar ini dengan tangkapan layar nyata dari portofolio Anda!</b></i></p>
+  <p><i><b>⚠️ GANTI LINK INI dengan URL tangkapan layar atau GIF dari portofolio Anda.</b></i></p>
+  <p><i><b>Contoh:</b> <code>https://raw.githubusercontent.com/herfando/html-portofolio/main/assets/portofolio-screenshot.png</code></i></p>
 </div>
 
 ---
@@ -72,6 +73,7 @@ Ingin melihat atau menggunakan portofolio ini? Ikuti langkah-langkah mudah di ba
     Buka folder yang telah di-clone, lalu klik dua kali pada file `index.html` atau buka di browser favorit Anda.
     <div align="center">
       <img src="https://via.placeholder.com/600x300.png?text=Tampilan+File+Index.html+Di+Folder" alt="File index.html">
+      <p><i><b>⚠️ GANTI LINK INI dengan tangkapan layar struktur file atau GIF.</b></i></p>
     </div>
 
 ---
