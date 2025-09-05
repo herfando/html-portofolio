@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/herfando/html-portofolio/main/assets/banner.png" alt="Portofolio Banner" width="100%">
-  <h1>✨ Portofolio HTML Sederhana dan Elegan ✨</h1>
-  <p>Proyek dasar untuk menampilkan keterampilan dan pekerjaan saya sebagai seorang web developer.</p>
+  <h1>HTML Portfolio</h1>
+  <p>A simple and elegant personal portfolio built with HTML and CSS.</p>
   <br>
   <p>
     <a href="https://github.com/herfando/html-portofolio/stargazers">
@@ -17,79 +16,56 @@
 
 ---
 
-## 🚀 Sekilas Tentang Proyek Ini
+## 📄 Tentang Proyek
 
-Ini adalah proyek portofolio pribadi yang dibangun menggunakan **HTML** dan **CSS** murni. Tujuannya adalah untuk menjadi fondasi sederhana namun kuat yang menampilkan pekerjaan, keterampilan, dan informasi kontak saya. Desainnya minimalis, bersih, dan responsif, memastikan tampilan yang bagus di berbagai perangkat.
-
-> 📝 **Catatan:** Portofolio ini adalah versi dasar. Anda dapat mengembangkannya dengan JavaScript untuk fungsionalitas tambahan seperti form kontak atau animasi.
+Proyek ini adalah portofolio web pribadi yang dikembangkan sebagai showcase keterampilan dasar dalam **HTML** dan **CSS**. Tujuannya adalah untuk menciptakan platform yang bersih, responsif, dan mudah dinavigasi untuk menampilkan proyek, informasi pribadi, dan kontak.
 
 ---
 
-## 🎨 Tampilan Portofolio
+## ✨ Fitur-Fitur Utama
 
-Saksikan sendiri bagaimana tampilannya! Ini adalah tangkapan layar (screenshot) dari portofolio yang sedang berjalan.
-
-<div align="center">
-  <img src="https://via.placeholder.com/1200x600.png?text=Tangkapan+Layar+Portofolio+Anda" alt="Tampilan Portofolio" width="100%">
-  <p><i><b>⚠️ GANTI LINK INI dengan URL tangkapan layar atau GIF dari portofolio Anda.</b></i></p>
-  <p><i><b>Contoh:</b> <code>https://raw.githubusercontent.com/herfando/html-portofolio/main/assets/portofolio-screenshot.png</code></i></p>
-</div>
+* **Responsif Penuh:** Tata letak yang beradaptasi dengan mulus pada perangkat seluler, tablet, dan desktop.
+* **Struktur Jelas:** Dibagi menjadi beberapa bagian penting seperti `Tentang`, `Proyek`, dan `Kontak` untuk navigasi yang mudah.
+* **Desain Minimalis:** Menggunakan pendekatan desain yang sederhana dan modern untuk pengalaman pengguna yang nyaman.
 
 ---
 
-## 💡 Fitur-Fitur Unggulan
+## 💻 Teknologi yang Digunakan
 
-* **Responsif:** Tampilan yang menyesuaikan dengan baik di desktop, tablet, dan smartphone.
-* **Desain Bersih:** Menggunakan tata letak yang rapi dan palet warna yang menarik.
-* **Bagian yang Jelas:** Memiliki bagian-bagian terstruktur seperti:
-    * **Beranda:** Pengenalan singkat.
-    * **Tentang Saya:** Kisah perjalanan dan minat.
-    * **Proyek:** Daftar karya atau proyek yang sudah diselesaikan.
-    * **Keterampilan:** Ringkasan keahlian teknis.
-    * **Kontak:** Cara untuk terhubung.
+| Kategori  | Teknologi                                                              |
+| :-------- | :--------------------------------------------------------------------- |
+| **Markup**| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> |
+| **Gaya** | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> |
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## ⚙️ Cara Menggunakan
 
-Proyek ini dibangun dengan teknologi fundamental web:
+Ikuti langkah-langkah sederhana ini untuk menjalankan proyek secara lokal:
 
-| Kategori  | Teknologi                                                              | Keterangan                                       |
-| :-------- | :--------------------------------------------------------------------- | :----------------------------------------------- |
-| **Markup**| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> | Struktur utama halaman.                           |
-| **Gaya** | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> | Menambahkan gaya dan desain visual.                |
-
----
-
-## ⚙️ Cara Menggunakan Proyek Ini
-
-Ingin melihat atau menggunakan portofolio ini? Ikuti langkah-langkah mudah di bawah.
-
-1.  **Clone repositori ini:**
+1.  **Clone repositori:**
     ```bash
     git clone [https://github.com/herfando/html-portofolio.git](https://github.com/herfando/html-portofolio.git)
     ```
-2.  **Buka file `index.html`:**
-    Buka folder yang telah di-clone, lalu klik dua kali pada file `index.html` atau buka di browser favorit Anda.
-    <div align="center">
-      <img src="https://via.placeholder.com/600x300.png?text=Tampilan+File+Index.html+Di+Folder" alt="File index.html">
-      <p><i><b>⚠️ GANTI LINK INI dengan tangkapan layar struktur file atau GIF.</b></i></p>
-    </div>
+2.  **Buka di browser:**
+    Navigasi ke folder proyek yang sudah di-clone dan buka file `index.html` langsung di browser web pilihan Anda.
 
 ---
 
 ## 🤝 Kontribusi
 
-Proyek ini adalah portofolio pribadi, tetapi jika Anda memiliki ide untuk perbaikan desain, struktur, atau fitur baru, silakan buka **issue** atau ajukan **pull request**.
+Saran, perbaikan, atau ide fitur baru sangat diterima. Jika Anda ingin berkontribusi:
+
+1.  Fork repositori ini.
+2.  Buat branch baru (`git checkout -b feature/nama-fitur`).
+3.  Lakukan perubahan dan commit (`git commit -m 'feat: deskripsi fitur baru'`).
+4.  Push ke branch Anda (`git push origin feature/nama-fitur`).
+5.  Buka Pull Request.
 
 ---
 
 ## 📜 Lisensi
 
-Proyek ini berada di bawah lisensi **MIT**. Silakan lihat file `LICENSE` untuk detailnya.
+Proyek ini dirilis di bawah **Lisensi MIT**. Lihat file `LICENSE` untuk detail lebih lanjut.
 
 ---
-
-<div align="center">
-  <p>Dibuat dengan ❤️ oleh herfando</p>
-</div>
